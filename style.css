@@ -1,0 +1,100 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navar{
+    
+    padding: 14px 16px;
+    text-align: right;
+    padding-bottom: 150px;
+    font-weight: 100;
+    
+}
+.a-nav-design{
+    text-decoration: none;
+    color: grey;
+}
+
+h1{
+    font-size: 45px;
+}
+h3{
+    color: rgb(255, 165, 19);
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    color: dimgrey;
+    
+}
+
+section{
+    height: 50px;
+    padding-bottom: 450px;
+}
+
+.cyan-design{
+    color:rgb(0, 247, 255);
+}
+.up-half{
+    float: left;
+    width: 40%;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.single-for-hello{
+    margin-top: -50px;
+}
+.up-half img{
+    width: 100%;
+    margin-top: -90px;
+    padding-left: 30px;
+}
+#padding-img{
+    padding-right: 5000px !important;
+    width: 100%;
+}
+.link-button{
+           text-decoration: none;
+           font-weight: 700;
+           background-image:linear-gradient(60deg, rgb(0, 255, 255), rgb(81, 153, 129));
+           padding: 10px 20px;
+           border-radius: 5px;
+           color: rgb(0, 0, 0);
+           margin-top: 50px;
+
+}
+a:hover {
+    color: rgb(255, 255, 255);
+}
+#grey-design{
+    background-color:rgb(236, 234, 234);
+      
+
+
+}
+#center{
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 40px;
+}
+.single-project{
+    float: left;
+    width: 27%;
+    padding: 5px;
+    margin-left: 65px;
+    background-color: ivory;
+    border-radius: 10px;
+} 
+.single-project img{
+    height: 200px;
+}
+
+
+
+
+
+  
+ 
