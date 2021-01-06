@@ -5,7 +5,7 @@ body{
 
 .navar{
     
-    padding: 14px 16px;
+    padding: 20px 20px;
     text-align: right;
     padding-bottom: 150px;
     font-weight: 100;
@@ -123,6 +123,7 @@ a:hover {
     float: left;
     padding-top: 40px;
     margin-left: -100px;
+    color: lightcyan;
 }
 
 #foot{
