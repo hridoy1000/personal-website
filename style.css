@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+    
 }
 
 .navar{
@@ -23,7 +24,7 @@ h3{
 }
 h2{
     font-size: 30px;
-    text-align: center;
+    
 }
 p{
     color: dimgrey;
@@ -53,7 +54,7 @@ section{
     padding-left: 30px;
 }
 #padding-img{
-    padding-right: 5000px !important;
+    padding-right: 50px !important;
     width: 100%;
 }
 .link-button{
@@ -71,10 +72,9 @@ a:hover {
 }
 #grey-design{
     background-color:rgb(236, 234, 234);
-      
-
-
+    
 }
+
 #center{
     text-align: center;
     margin-top: 10px;
@@ -90,6 +90,43 @@ a:hover {
 } 
 .single-project img{
     height: 200px;
+}
+
+#forth-sec{
+    height: 10px;
+    width: 600px;
+    padding-bottom: 200px;
+    margin-top: -400px !important;
+    padding-right: 200px;
+    padding-left: 200px;
+    background-image: url("images/Group_33094_1.png");
+    background-size: 850px;
+    background-repeat: no-repeat;
+    margin-left: 180px;
+
+}
+.forth-div{
+    width: 100%;
+   
+}
+
+#a-design{
+     float: right;
+     margin-top: 80px !important;
+     
+}
+#h1-design{
+    float: left;
+   padding-top: 40px;
+    margin-left: -100px;
+}
+
+#foot{
+    padding-top: 20px;
+    text-align: center;
+}
+#foot img{
+    width: 40px;
 }
 
 
