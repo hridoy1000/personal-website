@@ -87,7 +87,11 @@ a:hover {
     margin-left: 65px;
     background-color: ivory;
     border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
 } 
+.single-project:hover{
+    background-color: lightcoral;
+}
 .single-project img{
     height: 200px;
 }
